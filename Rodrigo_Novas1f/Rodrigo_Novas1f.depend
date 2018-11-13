@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1542066946 source:c:\users\alumno\desktop\rodrigo_novas1f\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juegos.h"
+	"cliente.h"
+	"alquileres.h"
+	"utn.h"
+
+1542067325 c:\users\alumno\desktop\rodrigo_novas1f\juegos.h
+
+1542067044 c:\users\alumno\desktop\rodrigo_novas1f\cliente.h
+
+1542067044 c:\users\alumno\desktop\rodrigo_novas1f\alquileres.h
+	"juegos.h"
+	"cliente.h"
+	"alquileres.h"
+	"utn.h"
+
+1542065172 c:\users\alumno\desktop\rodrigo_novas1f\utn.h
+
+1542066946 source:c:\users\alumno\desktop\rodrigo_novas1f\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juegos.h"
+	"cliente.h"
+	"alquileres.h"
+	"utn.h"
+
+1542067044 source:c:\users\alumno\desktop\rodrigo_novas1f\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juegos.h"
+	"cliente.h"
+	"alquileres.h"
+	"informes.h"
+	"utn.h"
+
+1542067044 c:\users\alumno\desktop\rodrigo_novas1f\informes.h
+	"juegos.h"
+	"cliente.h"
+	"alquileres.h"
+	"utn.h"
+
+1542067230 source:c:\users\alumno\desktop\rodrigo_novas1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+	"juegos.h"
+	"alquileres.h"
+	"informes.h"
+	"menu.h"
+
+1542067230 source:c:\users\alumno\desktop\rodrigo_novas1f\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juegos.h"
+	"cliente.h"
+	"alquileres.h"
+	"utn.h"
+
+1542065148 source:c:\users\alumno\desktop\rodrigo_novas1f\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1542067230 c:\users\alumno\desktop\rodrigo_novas1f\menu.h
+
+1542067230 source:c:\users\alumno\desktop\rodrigo_novas1f\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juegos.h"
+	"cliente.h"
+	"alquileres.h"
+	"utn.h"
+
